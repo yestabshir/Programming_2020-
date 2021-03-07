@@ -5,3 +5,5 @@
  ### 1.2: Usine range from question 2 plot the figure
  ### 1.3: Solve tax revenue
  ### 1.4 Calculate utility of consumption and labor price, also find optimal labor supply choice ~ Calculation is same as 1.1
+ 
+ ## Data Analysis Project: 
