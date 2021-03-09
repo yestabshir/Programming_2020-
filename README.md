@@ -19,3 +19,7 @@
 
 ## C) Model Project: 
 In this project I have first solved the Intertemporal Consumer Optimization problem numerically, then I have introduce Ramsey model with cobb-douglas production function of firms and log utility of consumers. We have found that both numerical result and analytical results for optimal value of k and c are 0.6284 and 0.7676 with given values of variables. I have also plotted the phase diagram of the model and the changing of consumption by giving initial of capital. I observed given initial values of capital $k_0$ = 1.000 and consumption $c_0$ = 1.0117 the economy will reach balanced growth path. 
+
+
+## D) Final Project:
+Few excercise question and compilation of excercises from A-C projects that has been created to analyse the understanding of Basic Python Programming and its tools in understanding numerical economics as well as solve quantitative economics.
