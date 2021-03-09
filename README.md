@@ -1,6 +1,6 @@
 # Programming_2020- 
 ## A) Inaugral Project: 
-      Basic Labor Supply problem of Macroeconomic Model using numpy, scipy and matplotlib
+  1.0 Basic Labor Supply problem of Macroeconomic Model using numpy, scipy and matplotlib
   1.1: Define obejctive function, define tax and define budget constraint, define consumer choice 
        and define maximisation using optimize minimize scalar to get the results.
   1.2: Usine range from question 2 plot the figure
